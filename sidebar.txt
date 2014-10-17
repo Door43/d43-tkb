@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkb:home|Door43 (tkb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkb|d43-tkb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkb/archive/master.zip|d43-tkb.zip]]
+
+**Recent Changes**
+{{changes>ns = tkb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkb|Ethnologue data]]
+
